@@ -1,3 +1,7 @@
+---
+tags:
+  - howto
+---
 # Support
 
 At the heart of Material for MkDocs is an open and supportive community dedicated

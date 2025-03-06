@@ -1,3 +1,9 @@
+---
+comments: true
+tags:
+  - howto
+---
+
 # Creating a reproduction
 
 A reproduction is a simplified version of a bug that demonstrates the specific

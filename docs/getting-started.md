@@ -1,3 +1,9 @@
+---
+comments: true
+tags:
+  - howto
+---
+
 # Getting started
 
 Material for MkDocs is a powerful documentation framework on top of [MkDocs],

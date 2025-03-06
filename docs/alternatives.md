@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Alternatives
 
 There are tons of static site generators and themes out there and choosing the

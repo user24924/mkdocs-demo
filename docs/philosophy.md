@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Philosophy
 
 Before settling for Material for MkDocs, it's a good idea to understand the

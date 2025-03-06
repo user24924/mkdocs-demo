@@ -1,3 +1,8 @@
+---
+comments: true
+tags:
+  - howto
+---
 # How to upgrade
 
 Upgrade to the latest version with:
