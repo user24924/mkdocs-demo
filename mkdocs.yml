@@ -1,8 +1,10 @@
 site_name: MkDocs Material Demo
-site_url: https://localhost
+site_url: https://user24924.github.io/mkdocs-demo
 repo_url: https://github.com/user24924/mkdocs-demo
+repo_name: mkdocs-demo
 theme:
   name: material
+  custom_dir: overrides
   features:
     - navigation.footer
     - navigation.indexes
